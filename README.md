@@ -25,11 +25,12 @@ Instructor: Prof. Varun Bhalerao
 3. Atmospheric Extinction Calculation Code:
     - [Cluster Fitting](https://github.com/ramanan849/The_GARAMA_Project/blob/0c648d102d32a0f832320acdd3ac81c105fd0ab9/Atmospheric_Extinction/Cluster_Fitting.ipynb)
     - [CLuster Photometry](https://github.com/ramanan849/The_GARAMA_Project/blob/0c648d102d32a0f832320acdd3ac81c105fd0ab9/Atmospheric_Extinction/Cluster_Photometry.ipynb)
+      
 4. [Output and Plots](https://github.com/ramanan849/The_GARAMA_Project/tree/0c648d102d32a0f832320acdd3ac81c105fd0ab9/Outputs)
 
 5. Data:
-  - [Calibrated NGC 1039 Data]()
-  - [Bias, Dark and Light Frames of SBIG STC-428 FW CMOS Detector]()
+      - [Calibrated NGC 1039 Data]()
+      - [Bias, Dark and Light Frames of SBIG STC-428 FW CMOS Detector]()
   
 6. [Presentation on 07/11/25](https://github.com/ramanan849/The_GARAMA_Project/blob/d5fa7e1ed99dfad672f4effd1a50b52e598012f2/Presentation_GARAMA.pdf)
 7. Individual Reports:
