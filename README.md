@@ -37,7 +37,7 @@ Instructor: Prof. Varun Bhalerao
    - [Anvit's](https://github.com/ramanan849/The_GARAMA_Project/blob/8761891f5d995d65335c8b5e70a769dc4d33cb79/Reports/AnvitK_23B1828.pdf)
    - [Gokul's](https://github.com/ramanan849/The_GARAMA_Project/blob/a6e412ea71042abb45e9eab9b42e3a679833f286/Reports/Gokul_23B1854.pdf)
    - [Arya's](https://github.com/ramanan849/The_GARAMA_Project/blob/bca209851cd08917f1e2dfebd9027eceded51c68/Reports/Arya_23B1853.pdf)
-   - [Ronit's]()
+   - [Ronit's](https://github.com/ramanan849/The_GARAMA_Project/blob/1ecd1a19f6272d6acc9d0467e2193d5219869caf/Reports/Ronit_23B1837.pdf)
 
 
 
